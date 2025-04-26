@@ -81,8 +81,41 @@ Finally, I used a multi-series bar chart to compare average power usage amongst 
 
 
 
-## GenAI Use
+## GenAI Use (Exercise 2)
 Some assistance was taken from GenAI (ChatGPT) to generate initial code structure, which was then modified and understood before use. All code has been reviewed and adjusted as necessary.
+
+# AI Usage Declaration (Exercise 3 )
+
+For Exercise 4.1 (Draw SVG House), I have used generative AI tools (ChatGPT) for guidance and learning purposes.
+
+Details of AI assistance:
+- Helped design the overall SVG structure, including house, garden path, trees, sun, flowers, and fence.
+- Assisted in troubleshooting SVG errors and improving visual layout (such as moving trees to align with the ground, and making the fence symmetrical).
+- Guided me on GitHub commands during conflict resolution (merge, commit, push) and writing commit messages.
+- Explained the use of the <g> group element to group windows and apply shared styling.
+- Provided advice on maintaining step-by-step planning and clean code practices.
+
+Important:
+- All code has been reviewed, understood, and manually edited by myself.
+- AI tools were used as learning support only, not as direct code submission without personal effort.
+- Final work was committed into my GitHub repository with proper version control.
+
+# AI Usage Declaration - Exercise 4.2
+
+For Exercise 4.2 (Manipulating and Adding Elements with D3.js), I used ChatGPT as a learning guide to:
+
+- Understand how to use D3 to select, style, and append elements to the HTML document.
+- Implement steps for adding a paragraph, creating an SVG container, and inserting a rectangle with specific attributes.
+- Learn best practices for clean coding, file separation, and version control during the task.
+- Resolve small errors related to JavaScript syntax and D3 chaining methods.
+
+Demonstration of understanding:
+- I manually applied styles to different HTML elements using D3.
+- I appended paragraphs, SVGs, and rectangles independently.
+- I organised the work step-by-step in a new JS file (`exercise4-2.js`) and made regular commits to my repository.
+
+AI was used only to support my learning. All final work was created, reviewed, and pushed by myself.
+
 
 ## Author
 Nusrat Jahan Eysha. 103502758. 
